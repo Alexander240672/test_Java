@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chapter1/chapter1.iml" filepath="$PROJECT_DIR$/chapter1/chapter1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter1_java_introduction/chapter1_java_introduction.iml" filepath="$PROJECT_DIR$/chapter1_java_introduction/chapter1_java_introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2_variable/chapter2_variable.iml" filepath="$PROJECT_DIR$/chapter2_variable/chapter2_variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3_operators/chapter3_operators.iml" filepath="$PROJECT_DIR$/chapter3_operators/chapter3_operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_java.iml" filepath="$PROJECT_DIR$/test_java.iml" />
     </modules>
   </component>
